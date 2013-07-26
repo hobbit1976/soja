@@ -1,0 +1,27 @@
+div.gallery-thumbs div.wrapper {
+	width: 760px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.article-type-bildgalerie .galleryformatter .gallery-thumbs a.back {
+	background: url("images/galerie/minus.gif") no-repeat scroll 0 0 transparent;
+	background-position: center;
+}
+
+.article-type-bildgalerie .galleryformatter .gallery-thumbs a.forward {
+  background: url("images/galerie/plus.gif") no-repeat scroll 0 0 transparent;
+  background-position: center;
+}
+
+.article-type-bildgalerie .galleryformatter .gallery-slides a.prev-slide {
+  background: url("images/galerie/pfeil_links.gif") no-repeat scroll 0 0 transparent;
+  background-position: center;
+  opacity: 1;
+}
+
+.article-type-bildgalerie .galleryformatter .gallery-slides a.next-slide {
+  background: url("images/galerie/pfeil_rechts.gif") no-repeat scroll 0 0 transparent;
+  background-position: center;
+  opacity: 1;
+}

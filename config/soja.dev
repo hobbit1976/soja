@@ -2,7 +2,7 @@
 
 <VirtualHost *:80>
 
-  ServerName dev.soja
+  ServerName soja.dev
 
   # suggestion for single-user dev systems:
   # create a symlink to your actual directory in the workspace

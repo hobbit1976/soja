@@ -25,3 +25,8 @@ div.gallery-thumbs div.wrapper {
   background-position: center;
   opacity: 1;
 }
+
+.article-type-bildgalerie .galleryformatter .gallery-slides {
+  width: 810px !important;
+  height: 520px !important;
+}
